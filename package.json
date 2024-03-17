@@ -1,0 +1,22 @@
+{
+  "name": "teateamy",
+  "version": "1.0.0",
+  "description": "I want to do oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasminee23/teateamy.git"
+  },
+  "dependencies": {
+    "tealikelove": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasminee23/teateamy/issues"
+  },
+  "homepage": "https://github.com/jasminee23/teateamy#readme"
+}
